@@ -1,0 +1,38 @@
+
+:root{
+	font-size: 16px;
+
+}
+
+
+.hiddenDiv {
+	display:none;
+	color: white;
+}
+.container {
+	display: block;
+	background-color: maroon;
+	padding: 20px;
+}
+.makeup {
+
+	padding-top: 8px;
+	border-radius: 50%;
+	border-width: 2px;
+}
+.hiddenDiv1 {
+	display:none;
+	color: white;
+}
+.one {
+	text-align: center;
+	font-size: 2rem;
+}
+.two {
+	display: block;
+	background-color: teal;
+	padding: 20px;
+}
+
+
+
